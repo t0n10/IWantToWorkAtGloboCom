@@ -1,9 +1,88 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+  **Área de Jornalismo :**
+      
+  Você quer ajudar a construir o maior portal de notícias do país? Venha participar da equipe que faz o G1 e ajude a informar melhor 10 milhões de brasileiros todo dia.
+            
+  **Must Have:** Ser apaixonado por desenvolvimento e tecnologia; Ter facilidade de trabalhar dentro de times multi-disciplinares; Escrever código limpo e legível para pessoas; Ter conhecimentos em design e arquitetura de software; Experiência com Python e Django; Experiência com desenvolvimento WEB (HTML, CSS, Javascript, jQuery, etc);
+        
+  **Should Have:** Experência com práticas de XP (TDD, pair programming, refactoring, continuous integration, etc); Experiência com testes unitários, de aceitação, mocks, Selenium, etc; Conhecimento de técnicas cross-browser, SEO, HTML5 e CSS3;
+            
+  **Nice to Have:** Experiência com metodologias ágeis, como Scrum; Experiência com infra-estrutura de aplicações web de alta escala; Conhecimento de automação de deploy com Puppet, Chef, etc; Ser poliglota em linguagens de programação e linguagens naturais;
+
+
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+
+##Objetivo:
+      
+Trabalhar como Engenheiro da computação em tecnologias da informação (Internet) , onde eu possa aplicar meus conhecimentos e experiência, e também,  explorar e me aperfeiçoar às ferramentas que ainda me são desconhecidas. 
+
+
+
+
+##Competências:
+      
+**Desenvolvedor Web:**  HTML, PHP, ASP.Net, SQL (LAMP), Javascript (Frameworks : ExtJS, Dojo, JQuery ...), CSS, Flash, Actionscript, Arquitectura WEB AJAX, JavaEE (Hibernate, Spring, ...).<br />
+**Linguagens:**  	      JAVA (SWING, RMI, JDBC, JUnit), XML, C / C++, Python, Esterel, Shell Script, VHDL, UML.<br />
+**Ferramentas:**	    	Metodologia AGIL, POO, Design Patterns, IDE : Eclipse / NetBeans.<br />
+**CAD:**			          Solidworks, Matlab-Simulink, Silos, aplicativos Altera, CPN Tools, Mplab.<br />
+**Outros:**	          	Programas de escritório (Pacóte Office, OpenOffice), administração UNIX, Linux.
+
+
+
+
+##Experiências profissionais:
+      
+* __MEGA International - Projeto « MEGA Anywhere » e aplicativo GRC: 11/2009 – 12/2011 (França, Paris):__<br />
+  Engenheiro desenvolvedor especializado em desenvolvimento web para o produto GRC (Governança, Risco, Compliance), e para o projeto “MEGA Anywhere”. Domínio completo dos aplicativos MEGA (Moldagem do processo BPMN, arquitetura organizacional ...) em interface WEB. Realizado em Javascript (ExtJS, Dojo), e Flash.<br />
+  O programa GRC e um aplicativo Web orientado, utilizando tecnologias Java EE (com Hibernate e Spring), API REST, JSP, JavaScript, Flash.<br />
+__Conclusão : *Forte experiência em Java EE,  AJAX e Flash (Actionscript), trabalhar em coordenação com uma equipe de desenvolvimento de grande porte, metodologia Agil.*__
+
+
+* __RTE - Empresa de telecomunicações e controle remoto: 04/2009 – 10/2009 (França, Nancy):__<br />
+   Estágio supervisionado missão: Fazer parte de uma equipe de especialistas em telecomunicações e controle remoto da empresa RTE: Implementação do projeto-piloto para o controle remoto por satélite.<br />
+__Conclusão: *A conformidade com as restrições relacionadas com a gestão do projeto, a descoberta de responsabilidades e tarefas confiadas a um engenheiro multidisciplinar.*__
+
+
+
+
+##Outras experiências como desenvolvedor:
+
+* __Realização de « Trabalho prático » : 2009__<br />
+  A especificação foi a construção de um aplicativo Java distribuídas (usando Java RMI, e do padrão MVC), simulando o movimento de uma cidade, calcular e comparar os diversos resultados estatísticos para validar a relevância da instalação de  uma linha de bonde.OuvirLer foneticamente<br />
+__Conclusão: *Modelagem em UML, testes unitários (Junit), Desing Patterns, Subversion, V-ciclo.*__
+
+* __Projeto final da faculdade: 2009__<br />
+  Remoto hovercraft controle por Wi-Fi: Realisação de uma aplicação integrada, controlada através de uma interface web. Além de um simples controle remoto, o aplicativo também permite memorizar e seguir um caminho complexo através da inteligência e sensores (bússola e GPS) embarcados.<br />
+__Conclusão: *Página WEB realisada em flash,  servidor de soquete em JAVA, o controle de dois servo-motores com um microcontrolador (Microchip programado em C), a comunicação USB entre o microcontrolador e placa-mãe (programado em C).*__
+
+* __Realização free lance: 2007-2009__<br />
+  Diversos sites (HTML, PHP, MySQL, Javascript, Flash e ActionScript, CSS), e um aplicativo do Facebook (que se encontra na API do Facebook).
+
+
+
+
+##Formaçao:
+
+* __Licenciatura em Engenharia da computação: 2005 - 2009__<br />
+  Obtention de licenciatura em engenharia _ENSEM_ (Escola Nacional de Energia Elétrica e Mecânica), parte do grupo _INPL_ (Institut National Polytechnique de Lorraine). Especialização computação: _SERTR_ (Sistemas Embarcados, Redes, Tempo Real).
+
+* __Bacharelado em ciência: 2003 - 2005__<br />
+  Lycée Robert SCHUMAN, Havre. Com aulas preparatórias _PTSI_ (Física Tecnologia e Ciências de Engenharia). 
+
+
+
+
+
+##Idiomas:
+      
+**Francês:**  			Lingua materna.<br />
+**Inglês:**					Bom nível, obtendo uma pontuação de 865 pontos no TOEIC.<br />
+**Português brasileiro:**	intermediário.<br />
+**Espanhol:**       Básico.<br />
+
+
